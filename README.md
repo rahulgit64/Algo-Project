@@ -1,6 +1,6 @@
-# University Admission Helps
+# MU Info Hub
 
-A project written in C++ program which can help colleges to better facilitate and manage the admission process of students.
+A project written in C++ program which can help university to better facilitate and manage the admission process of students.
 
 # Technology used
 
