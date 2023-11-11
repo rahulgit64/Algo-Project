@@ -8,10 +8,11 @@ cpp programming language
 
 # Features
 
-- The project helps the student admission proces step by step.
+- Details about Metropolitan University(MU)
+- Details about all Engi. Departments in MU.
+- The project helps the student admission proces.
 - Displays Course Details.
 - Displays fee structure.
-- Details about Metropolitan University(MU)
 
 # Screen-shots
 
