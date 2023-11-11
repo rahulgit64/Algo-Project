@@ -47,8 +47,8 @@ MU contact details
 
 # How to use ?
 
- 1.Download or clone the repository.
- 2.Run the file algo po.cpp with a suitable C/C++ IDE.
+- 1.Download or clone the repository.
+- 2.Run the file algo po.cpp with a suitable C/C++ IDE.
 
  # Code example 
 
